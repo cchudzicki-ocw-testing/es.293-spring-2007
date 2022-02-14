@@ -8,7 +8,11 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+parent_title: SP.285
+parent_type: CourseSection
 resourcetype: Image
 title: jonah_1half.jpg
+type: OCWImage
 uid: 51a75484-db81-b871-1159-58f80f450c33
 ---

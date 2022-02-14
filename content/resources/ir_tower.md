@@ -8,7 +8,11 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+parent_title: SP.285
+parent_type: CourseSection
 resourcetype: Image
 title: ir_tower.jpg
+type: OCWImage
 uid: 131a2a83-629e-8edb-0af8-719b986fdfac
 ---

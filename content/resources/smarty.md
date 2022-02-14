@@ -7,7 +7,11 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+parent_title: SP.285
+parent_type: CourseSection
 resourcetype: Image
 title: smarty.jpg
+type: OCWImage
 uid: 5b940e33-a2f0-97f1-5602-7c6df7b984c2
 ---

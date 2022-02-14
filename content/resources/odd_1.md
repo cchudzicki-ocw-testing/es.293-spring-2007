@@ -7,7 +7,11 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+parent_title: SP.285
+parent_type: CourseSection
 resourcetype: Image
 title: odd_1.jpg
+type: OCWImage
 uid: 0ff195d3-7616-d799-f9dd-ef9b5cce2b62
 ---

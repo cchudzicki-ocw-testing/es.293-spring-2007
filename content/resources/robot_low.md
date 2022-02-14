@@ -8,7 +8,11 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+parent_title: SP.285
+parent_type: CourseSection
 resourcetype: Image
 title: robot_low.jpg
+type: OCWImage
 uid: eeb16f95-2249-7425-247a-4c719c3e8e01
 ---

@@ -10,7 +10,11 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+parent_title: SP.285
+parent_type: CourseSection
 resourcetype: Image
 title: caster.jpg
+type: OCWImage
 uid: f3d1ab7b-9f65-c599-2f98-724463e2f432
 ---

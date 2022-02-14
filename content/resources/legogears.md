@@ -8,7 +8,11 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+parent_title: SP.285
+parent_type: CourseSection
 resourcetype: Image
 title: legogears.jpg
+type: OCWImage
 uid: 468ae11e-3d13-6773-4031-513aa4a1ed62
 ---

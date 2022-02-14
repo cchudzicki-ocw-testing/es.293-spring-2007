@@ -10,7 +10,11 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+parent_title: SP.285
+parent_type: CourseSection
 resourcetype: Image
 title: gears.jpg
+type: OCWImage
 uid: 3168834a-56e3-f34f-0ea1-dfd5e3361b88
 ---

@@ -10,7 +10,11 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+parent_title: SP.285
+parent_type: CourseSection
 resourcetype: Image
 title: invertibot2.jpg
+type: OCWImage
 uid: d34bb1b2-0d7b-ed66-c197-93e0aa652e77
 ---

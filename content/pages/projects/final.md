@@ -1,8 +1,12 @@
 ---
 content_type: page
+learning_resource_types:
+- Projects
 parent_title: Projects
+parent_type: CourseSection
 parent_uid: 036c1983-7039-2671-43af-609365ee8161
 title: The Fire-Fighting Robot
+type: CourseSection
 uid: a2c5b1cc-6998-2647-0cb2-23882c9e21c5
 ---
 

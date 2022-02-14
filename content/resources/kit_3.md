@@ -8,7 +8,11 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+parent_title: SP.285
+parent_type: CourseSection
 resourcetype: Image
 title: kit_3.jpg
+type: OCWImage
 uid: ea37c95e-4000-f540-e56e-58a7c55c0b3e
 ---

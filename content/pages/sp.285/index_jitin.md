@@ -1,8 +1,11 @@
 ---
 content_type: page
+learning_resource_types: []
 parent_title: SP.285
+parent_type: CourseSection
 parent_uid: 3ac1aa36-8b07-38f8-f202-a90f68c5443e
 title: Invertible Robot
+type: CourseSection
 uid: 2a995065-ab60-fabb-f9ef-0c9861286f50
 ---
 

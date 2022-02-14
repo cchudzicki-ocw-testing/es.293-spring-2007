@@ -8,7 +8,11 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+parent_title: SP.285
+parent_type: CourseSection
 resourcetype: Image
 title: legolightsnr2.jpg
+type: OCWImage
 uid: fc35280d-793f-8600-3af2-8c9c2af3a931
 ---

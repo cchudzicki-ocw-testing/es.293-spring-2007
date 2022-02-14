@@ -8,7 +8,11 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+parent_title: SP.285
+parent_type: CourseSection
 resourcetype: Image
 title: catapult_winch.jpg
+type: OCWImage
 uid: 346aded6-ec23-c23e-a45c-bdb5b9842f50
 ---

@@ -7,7 +7,11 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+parent_title: SP.285
+parent_type: CourseSection
 resourcetype: Image
 title: afternoon_3.jpg
+type: OCWImage
 uid: 1f21d5bd-eabe-5fcf-f3ba-bad974aacbc1
 ---

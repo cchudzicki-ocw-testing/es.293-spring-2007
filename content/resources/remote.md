@@ -7,7 +7,11 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+parent_title: SP.285
+parent_type: CourseSection
 resourcetype: Image
 title: remote.jpg
+type: OCWImage
 uid: e2b4fef8-235d-f54e-4d4a-fea277398ea4
 ---

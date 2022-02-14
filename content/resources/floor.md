@@ -8,7 +8,12 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types:
+- Projects
+parent_title: Projects
+parent_type: CourseSection
 resourcetype: Image
 title: floor.gif
+type: OCWImage
 uid: 5bbda4e1-fdcd-d16e-64b4-67c2ef39d99a
 ---

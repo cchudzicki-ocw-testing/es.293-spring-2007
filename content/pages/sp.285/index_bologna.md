@@ -1,8 +1,11 @@
 ---
 content_type: page
+learning_resource_types: []
 parent_title: SP.285
+parent_type: CourseSection
 parent_uid: 3ac1aa36-8b07-38f8-f202-a90f68c5443e
 title: Guidance by IR Beacon
+type: CourseSection
 uid: 71bf2a2a-5a80-abb9-6b63-accb8c525add
 ---
 

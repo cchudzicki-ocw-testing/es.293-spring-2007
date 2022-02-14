@@ -8,7 +8,11 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+parent_title: SP.285
+parent_type: CourseSection
 resourcetype: Image
 title: vrsek.jpg
+type: OCWImage
 uid: 91253ccb-3641-a5a8-592e-33bedae4fd2e
 ---

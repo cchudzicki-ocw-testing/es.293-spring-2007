@@ -8,7 +8,11 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+parent_title: SP.285
+parent_type: CourseSection
 resourcetype: Image
 title: legotop.jpg
+type: OCWImage
 uid: 3f7ab352-fabc-eb59-b3fb-4e7ff3cd67be
 ---

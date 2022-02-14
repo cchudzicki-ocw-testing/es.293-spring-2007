@@ -1,6 +1,8 @@
 ---
 content_type: page
+learning_resource_types: []
 title: Related Resources
+type: CourseSection
 uid: 38557afb-40ab-6728-b24f-7cc2c02971a4
 ---
 
@@ -40,6 +42,6 @@ Electronics Links
 
 [Fairchild Semiconductor Datasheets](http://www.fairchildsemi.com/index.html)
 
-[Maxim Datasheets](http://www.maxim-ic.com/)
+[Maxim Datasheets](https://www.maximintegrated.com/en/ds/index.mvp)
 
 [Microchip](http://www.microchip.com/TechDocByProduct.aspx)

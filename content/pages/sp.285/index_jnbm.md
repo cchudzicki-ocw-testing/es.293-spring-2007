@@ -1,8 +1,11 @@
 ---
 content_type: page
+learning_resource_types: []
 parent_title: SP.285
+parent_type: CourseSection
 parent_uid: 3ac1aa36-8b07-38f8-f202-a90f68c5443e
 title: Guidance by Light
+type: CourseSection
 uid: c11bc4ae-844d-f4cc-4b26-d80131ee8878
 ---
 

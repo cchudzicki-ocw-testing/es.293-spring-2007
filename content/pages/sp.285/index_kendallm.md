@@ -1,8 +1,11 @@
 ---
 content_type: page
+learning_resource_types: []
 parent_title: SP.285
+parent_type: CourseSection
 parent_uid: 3ac1aa36-8b07-38f8-f202-a90f68c5443e
 title: Control of a Plotter
+type: CourseSection
 uid: 57a2e970-39bf-2e69-1831-a4194ccc949e
 ---
 

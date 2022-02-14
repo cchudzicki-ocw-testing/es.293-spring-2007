@@ -8,7 +8,11 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+parent_title: SP.285
+parent_type: CourseSection
 resourcetype: Image
 title: legort.jpg
+type: OCWImage
 uid: 364b67fb-2d4e-6fd1-2614-94d1f7a2d135
 ---

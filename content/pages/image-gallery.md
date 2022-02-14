@@ -1,6 +1,8 @@
 ---
 content_type: page
+learning_resource_types: []
 title: Image Gallery
+type: CourseSection
 uid: 6643c3f8-8d87-a6da-661a-55e223b1acef
 ---
 
