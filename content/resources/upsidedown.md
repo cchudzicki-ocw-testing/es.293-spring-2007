@@ -15,6 +15,5 @@ parent_title: SP.285
 parent_type: CourseSection
 resourcetype: Image
 title: upsidedown.jpg
-type: OCWImage
 uid: 53022cab-f616-250a-0627-371e80977973
 ---

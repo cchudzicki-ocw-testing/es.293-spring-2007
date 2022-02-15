@@ -13,6 +13,5 @@ parent_title: SP.285
 parent_type: CourseSection
 resourcetype: Image
 title: legortang.jpg
-type: OCWImage
 uid: e6769d85-22b4-6ae3-d387-12c49fad6c35
 ---

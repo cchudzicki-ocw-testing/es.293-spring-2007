@@ -2,7 +2,6 @@
 content_type: page
 learning_resource_types: []
 title: SP.285
-type: CourseSection
 uid: 3ac1aa36-8b07-38f8-f202-a90f68c5443e
 ---
 

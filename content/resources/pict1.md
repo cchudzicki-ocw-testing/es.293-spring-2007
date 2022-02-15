@@ -13,6 +13,5 @@ parent_title: SP.285
 parent_type: CourseSection
 resourcetype: Image
 title: pict1.jpg
-type: OCWImage
 uid: 88bf8c15-4581-31b5-5f29-9ff044a7c2df
 ---

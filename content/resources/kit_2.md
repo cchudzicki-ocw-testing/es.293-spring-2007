@@ -13,6 +13,5 @@ parent_title: SP.285
 parent_type: CourseSection
 resourcetype: Image
 title: kit_2.jpg
-type: OCWImage
 uid: 0d75f4e1-5473-f7ea-43da-9148ffa3cd4f
 ---

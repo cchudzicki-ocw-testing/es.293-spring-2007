@@ -9,6 +9,5 @@ parent_title: Projects
 parent_type: CourseSection
 resourcetype: Document
 title: Challenges
-type: OCWFile
 uid: 46cf570a-9e17-9cde-2b60-fd7036a59468
 ---

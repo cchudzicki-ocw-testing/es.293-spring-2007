@@ -15,6 +15,5 @@ parent_title: SP.285
 parent_type: CourseSection
 resourcetype: Image
 title: sensor.jpg
-type: OCWImage
 uid: 1ea291e3-ca9a-e8ae-0996-05e385f3efbf
 ---

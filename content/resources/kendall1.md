@@ -13,6 +13,5 @@ parent_title: SP.285
 parent_type: CourseSection
 resourcetype: Image
 title: kendall1.jpg
-type: OCWImage
 uid: 9d46d023-adc6-0674-3708-ed40a2a7153d
 ---

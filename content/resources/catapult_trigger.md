@@ -13,6 +13,5 @@ parent_title: SP.285
 parent_type: CourseSection
 resourcetype: Image
 title: catapult_trigger.jpg
-type: OCWImage
 uid: 023969f0-1ac8-a571-ee79-99bd84333b97
 ---

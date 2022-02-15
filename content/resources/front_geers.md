@@ -13,6 +13,5 @@ parent_title: SP.285
 parent_type: CourseSection
 resourcetype: Image
 title: front_geers.jpg
-type: OCWImage
 uid: 10ae235d-d5a8-7d01-b5c9-69a94954f195
 ---

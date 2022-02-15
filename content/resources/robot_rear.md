@@ -13,6 +13,5 @@ parent_title: SP.285
 parent_type: CourseSection
 resourcetype: Image
 title: robot_rear.jpg
-type: OCWImage
 uid: 6486d339-3749-f245-1fac-559c8233334d
 ---

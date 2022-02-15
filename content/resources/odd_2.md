@@ -12,6 +12,5 @@ parent_title: SP.285
 parent_type: CourseSection
 resourcetype: Image
 title: odd_2.jpg
-type: OCWImage
 uid: 1f68295b-8978-171e-7707-79f08aa96f0e
 ---

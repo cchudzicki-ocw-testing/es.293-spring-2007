@@ -13,6 +13,5 @@ parent_title: SP.285
 parent_type: CourseSection
 resourcetype: Image
 title: track2.jpg
-type: OCWImage
 uid: 349d309d-e6c0-8347-ede2-acd04c981fbb
 ---

@@ -13,6 +13,5 @@ parent_title: SP.285
 parent_type: CourseSection
 resourcetype: Image
 title: remote_1.jpg
-type: OCWImage
 uid: 99b14c3d-e3e7-4259-3eb2-e1d92bd12760
 ---

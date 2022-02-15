@@ -13,6 +13,5 @@ parent_title: SP.285
 parent_type: CourseSection
 resourcetype: Image
 title: jonah_2.jpg
-type: OCWImage
 uid: 3fa275eb-c10f-3bcc-51cc-f54b28f8b2c4
 ---

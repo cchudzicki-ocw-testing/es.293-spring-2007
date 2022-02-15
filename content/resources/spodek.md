@@ -12,6 +12,5 @@ parent_title: SP.285
 parent_type: CourseSection
 resourcetype: Image
 title: spodek.jpg
-type: OCWImage
 uid: de5b20d8-ba91-bb7f-3ae6-ac9e76f33f1a
 ---

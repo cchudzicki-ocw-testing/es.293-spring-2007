@@ -8,6 +8,5 @@ parent_title: Study Materials
 parent_type: CourseSection
 resourcetype: Document
 title: 'INPUT / OUTPUT: '
-type: OCWFile
 uid: 5a70812e-0003-fe3a-00cb-c0d404ab2821
 ---

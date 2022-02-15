@@ -8,6 +8,5 @@ parent_title: Study Materials
 parent_type: CourseSection
 resourcetype: Document
 title: notes.dvi
-type: OCWFile
 uid: bd8917fb-7f64-7998-96d2-2ee34c864927
 ---

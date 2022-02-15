@@ -13,6 +13,5 @@ parent_title: SP.285
 parent_type: CourseSection
 resourcetype: Image
 title: miki_1.jpg
-type: OCWImage
 uid: 9955b711-6901-ff65-0f5a-7afef6879d9b
 ---

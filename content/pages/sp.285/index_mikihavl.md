@@ -5,7 +5,6 @@ parent_title: SP.285
 parent_type: CourseSection
 parent_uid: 3ac1aa36-8b07-38f8-f202-a90f68c5443e
 title: IR Remote Control
-type: CourseSection
 uid: 5a413b50-41e0-9e4d-b05a-f275e8a55fac
 ---
 

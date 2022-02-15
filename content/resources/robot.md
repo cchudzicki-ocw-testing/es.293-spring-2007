@@ -13,6 +13,5 @@ parent_title: SP.285
 parent_type: CourseSection
 resourcetype: Image
 title: robot.jpg
-type: OCWImage
 uid: 509414d7-3f51-a549-2ca7-1d004033ae32
 ---

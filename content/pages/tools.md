@@ -3,7 +3,6 @@ content_type: page
 learning_resource_types:
 - Tools
 title: Tools
-type: CourseSection
 uid: 64fb3db7-fee4-5b1b-3d49-7e084793d0f1
 ---
 

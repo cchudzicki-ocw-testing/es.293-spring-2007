@@ -13,6 +13,5 @@ parent_title: SP.285
 parent_type: CourseSection
 resourcetype: Image
 title: catapult_launch.jpg
-type: OCWImage
 uid: 3b11229a-839f-976d-edd2-36cc2962956f
 ---

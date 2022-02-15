@@ -12,6 +12,5 @@ parent_title: SP.285
 parent_type: CourseSection
 resourcetype: Image
 title: afternoon.jpg
-type: OCWImage
 uid: 3dc4e351-e46d-1e4f-2b0f-89c5df019cb0
 ---
