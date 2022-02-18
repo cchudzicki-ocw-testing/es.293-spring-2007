@@ -9,21 +9,21 @@ title: Control of a Plotter
 uid: 57a2e970-39bf-2e69-1831-a4194ccc949e
 ---
 
-[SP.285]({{< baseurl >}}/pages/sp.285)
+{{< resource_link 3ac1aa36-8b07-38f8-f202-a90f68c5443e "SP.285" >}}
 
-Chad Keever, [Projectile Launcher]({{< baseurl >}}/pages/sp.285/keever_index)  
+Chad Keever, {{< resource_link fbc62d3a-ff37-9c99-e4e2-4539d9bbd673 "Projectile Launcher" >}}  
 Kendall McConnel, Control of a Plotter  
-Jonah Elgart, [Guidance by IR Beacon]({{< baseurl >}}/pages/sp.285/index_bologna)  
-Miki Havlickova, [IR Remote Control]({{< baseurl >}}/pages/sp.285/index_mikihavl)  
-Jessica Bowles-Martinez, [Guidance by Light]({{< baseurl >}}/pages/sp.285/index_jnbm)  
-Matt Seegmiller, [Master/Slave IR Control]({{< baseurl >}}/pages/sp.285/index_xaco)  
-Jitin Asnaani, [Invertible Robot]({{< baseurl >}}/pages/sp.285/index_jitin)
+Jonah Elgart, {{< resource_link 71bf2a2a-5a80-abb9-6b63-accb8c525add "Guidance by IR Beacon" >}}  
+Miki Havlickova, {{< resource_link 5a413b50-41e0-9e4d-b05a-f275e8a55fac "IR Remote Control" >}}  
+Jessica Bowles-Martinez, {{< resource_link c11bc4ae-844d-f4cc-4b26-d80131ee8878 "Guidance by Light" >}}  
+Matt Seegmiller, {{< resource_link 59180ea3-56a1-8194-eb69-1117c8fae4ea "Master/Slave IR Control" >}}  
+Jitin Asnaani, {{< resource_link 2a995065-ab60-fabb-f9ef-0c9861286f50 "Invertible Robot" >}}
 
 * * *
 
-![Student Lego Project.]({{< resource_file 8c1052b0-903d-fd7b-f48a-68824e2bcaa7 >}})
+{{< resource 8c1052b0-903d-fd7b-f48a-68824e2bcaa7 >}}
 
-Hello! My name is Kendall McConnel and this webpage is devoted to my final project for [SP.285]({{< baseurl >}}/pages/sp.285), a seminar on Robotics and Mechatronics.
+Hello! My name is Kendall McConnel and this webpage is devoted to my final project for {{< resource_link 3ac1aa36-8b07-38f8-f202-a90f68c5443e "SP.285" >}}, a seminar on Robotics and Mechatronics.
 
 First, a little bit about the class...
 
@@ -39,4 +39,4 @@ To sum up my experience with my plotter, I tinkered with different functions of 
 
 And now, some pictures of my monster (I mean, my... uh.. creation)
 
-![Student Lego Project.]({{< resource_file 88bf8c15-4581-31b5-5f29-9ff044a7c2df >}}) ![Student Lego Project.]({{< resource_file 8914289a-8b10-6752-7d89-5cf25bf83ad1 >}}) ![Student Lego Project.]({{< resource_file 779a233f-a680-578f-97f1-fea72dbe4c61 >}})
+{{< resource 88bf8c15-4581-31b5-5f29-9ff044a7c2df >}} {{< resource 8914289a-8b10-6752-7d89-5cf25bf83ad1 >}} {{< resource 779a233f-a680-578f-97f1-fea72dbe4c61 >}}

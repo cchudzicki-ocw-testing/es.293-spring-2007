@@ -9,19 +9,19 @@ title: IR Remote Control
 uid: 5a413b50-41e0-9e4d-b05a-f275e8a55fac
 ---
 
-[SP.285]({{< baseurl >}}/pages/sp.285)
+{{< resource_link 3ac1aa36-8b07-38f8-f202-a90f68c5443e "SP.285" >}}
 
-Chad Keever, [Projectile Launcher]({{< baseurl >}}/pages/sp.285/keever_index)  
-Kendall McConnel, [Control of a Plotter]({{< baseurl >}}/pages/sp.285/index_kendallm)  
-Jonah Elgart, [Guidance by IR Beacon]({{< baseurl >}}/pages/sp.285/index_bologna)  
+Chad Keever, {{< resource_link fbc62d3a-ff37-9c99-e4e2-4539d9bbd673 "Projectile Launcher" >}}  
+Kendall McConnel, {{< resource_link 57a2e970-39bf-2e69-1831-a4194ccc949e "Control of a Plotter" >}}  
+Jonah Elgart, {{< resource_link 71bf2a2a-5a80-abb9-6b63-accb8c525add "Guidance by IR Beacon" >}}  
 Miki Havlickova, IR Remote Control  
-Jessica Bowles-Martinez, [Guidance by Light]({{< baseurl >}}/pages/sp.285/index_jnbm)  
-Matt Seegmiller, [Master/Slave IR Control]({{< baseurl >}}/pages/sp.285/index_xaco)  
-Jitin Asnaani, [Invertible Robot]({{< baseurl >}}/pages/sp.285/index_jitin)
+Jessica Bowles-Martinez, {{< resource_link c11bc4ae-844d-f4cc-4b26-d80131ee8878 "Guidance by Light" >}}  
+Matt Seegmiller, {{< resource_link 59180ea3-56a1-8194-eb69-1117c8fae4ea "Master/Slave IR Control" >}}  
+Jitin Asnaani, {{< resource_link 2a995065-ab60-fabb-f9ef-0c9861286f50 "Invertible Robot" >}}
 
 * * *
 
-![Student Lego Project.]({{< resource_file 5b940e33-a2f0-97f1-5602-7c6df7b984c2 >}})
+{{< resource 5b940e33-a2f0-97f1-5602-7c6df7b984c2 >}}
 
 **Welcome to my web page!**
 
@@ -50,17 +50,17 @@ Smarty
 {{< tableopen >}}
 {{< tropen >}}
 {{< tdopen >}}
-![Student Lego Project.]({{< resource_file f42cd4fd-cf92-9553-a4e1-a9606e771d5e >}})  
+{{< resource f42cd4fd-cf92-9553-a4e1-a9606e771d5e >}}  
   
 That's my board, and my friend remote control.
 {{< tdclose >}}
 {{< tdopen >}}
-![front_geers.jpg]({{< resource_file 10ae235d-d5a8-7d01-b5c9-69a94954f195 >}})  
+{{< resource 10ae235d-d5a8-7d01-b5c9-69a94954f195 >}}  
   
 This is my front gear system. Now you understand why I keep falling apart, hm?
 {{< tdclose >}}
 {{< tdopen >}}
-![Student Lego Project.]({{< resource_file 91253ccb-3641-a5a8-592e-33bedae4fd2e >}})  
+{{< resource 91253ccb-3641-a5a8-592e-33bedae4fd2e >}}  
   
 Here is a view from the top.
 {{< tdclose >}}
