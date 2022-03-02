@@ -9,19 +9,19 @@ title: Guidance by IR Beacon
 uid: 71bf2a2a-5a80-abb9-6b63-accb8c525add
 ---
 
-{{< resource_link 3ac1aa36-8b07-38f8-f202-a90f68c5443e "SP.285" >}}
+{{% resource_link 3ac1aa36-8b07-38f8-f202-a90f68c5443e "SP.285" %}}
 
-Chad Keever, {{< resource_link fbc62d3a-ff37-9c99-e4e2-4539d9bbd673 "Projectile Launcher" >}}  
-Kendall McConnel, {{< resource_link 57a2e970-39bf-2e69-1831-a4194ccc949e "Control of a Plotter" >}}  
+Chad Keever, {{% resource_link fbc62d3a-ff37-9c99-e4e2-4539d9bbd673 "Projectile Launcher" %}}  
+Kendall McConnel, {{% resource_link 57a2e970-39bf-2e69-1831-a4194ccc949e "Control of a Plotter" %}}  
 Jonah Elgart, Guidance by IR Beacon  
-Miki Havlickova, {{< resource_link 5a413b50-41e0-9e4d-b05a-f275e8a55fac "IR Remote Control" >}}  
-Jessica Bowles-Martinez, {{< resource_link c11bc4ae-844d-f4cc-4b26-d80131ee8878 "Guidance by Light" >}}  
-Matt Seegmiller, {{< resource_link 59180ea3-56a1-8194-eb69-1117c8fae4ea "Master/Slave IR Control" >}}  
-Jitin Asnaani, {{< resource_link 2a995065-ab60-fabb-f9ef-0c9861286f50 "Invertible Robot" >}}
+Miki Havlickova, {{% resource_link 5a413b50-41e0-9e4d-b05a-f275e8a55fac "IR Remote Control" %}}  
+Jessica Bowles-Martinez, {{% resource_link c11bc4ae-844d-f4cc-4b26-d80131ee8878 "Guidance by Light" %}}  
+Matt Seegmiller, {{% resource_link 59180ea3-56a1-8194-eb69-1117c8fae4ea "Master/Slave IR Control" %}}  
+Jitin Asnaani, {{% resource_link 2a995065-ab60-fabb-f9ef-0c9861286f50 "Invertible Robot" %}}
 
 * * *
 
-Hi, I'm Jonah Elgart and for my final project in {{< resource_link 3ac1aa36-8b07-38f8-f202-a90f68c5443e "SP.285" >}}, a robotics and mechatronics class taught in [ESG](http://esg.mit.edu/) (Experimental Study Group), I created a Lego robot that chases or flees an infrared beacon.
+Hi, I'm Jonah Elgart and for my final project in {{% resource_link 3ac1aa36-8b07-38f8-f202-a90f68c5443e "SP.285" %}}, a robotics and mechatronics class taught in [ESG](http://esg.mit.edu/) (Experimental Study Group), I created a Lego robot that chases or flees an infrared beacon.
 
 My robot car is very simple. It has two wheels, each connected to its own motor. The two motors are driven at different speeds to steer the car. The back wheel is mounted on a really cool caster that I built with Eric (one of the instructor dudes).
 

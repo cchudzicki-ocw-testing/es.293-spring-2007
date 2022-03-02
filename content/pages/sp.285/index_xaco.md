@@ -9,15 +9,15 @@ title: Master/Slave IR Control
 uid: 59180ea3-56a1-8194-eb69-1117c8fae4ea
 ---
 
-{{< resource_link 3ac1aa36-8b07-38f8-f202-a90f68c5443e "SP.285" >}}
+{{% resource_link 3ac1aa36-8b07-38f8-f202-a90f68c5443e "SP.285" %}}
 
-Chad Keever, {{< resource_link fbc62d3a-ff37-9c99-e4e2-4539d9bbd673 "Projectile Launcher" >}}  
-Kendall McConnel, {{< resource_link 57a2e970-39bf-2e69-1831-a4194ccc949e "Control of a Plotter" >}}  
-Jonah Elgart, {{< resource_link 71bf2a2a-5a80-abb9-6b63-accb8c525add "Guidance by IR Beacon" >}}  
-Miki Havlickova, {{< resource_link 5a413b50-41e0-9e4d-b05a-f275e8a55fac "IR Remote Control" >}}  
-Jessica Bowles-Martinez, {{< resource_link c11bc4ae-844d-f4cc-4b26-d80131ee8878 "Guidance by Light" >}}  
+Chad Keever, {{% resource_link fbc62d3a-ff37-9c99-e4e2-4539d9bbd673 "Projectile Launcher" %}}  
+Kendall McConnel, {{% resource_link 57a2e970-39bf-2e69-1831-a4194ccc949e "Control of a Plotter" %}}  
+Jonah Elgart, {{% resource_link 71bf2a2a-5a80-abb9-6b63-accb8c525add "Guidance by IR Beacon" %}}  
+Miki Havlickova, {{% resource_link 5a413b50-41e0-9e4d-b05a-f275e8a55fac "IR Remote Control" %}}  
+Jessica Bowles-Martinez, {{% resource_link c11bc4ae-844d-f4cc-4b26-d80131ee8878 "Guidance by Light" %}}  
 Matt Seegmiller, Master/Slave IR Control  
-Jitin Asnaani, {{< resource_link 2a995065-ab60-fabb-f9ef-0c9861286f50 "Invertible Robot" >}}
+Jitin Asnaani, {{% resource_link 2a995065-ab60-fabb-f9ef-0c9861286f50 "Invertible Robot" %}}
 
 * * *
 
@@ -35,7 +35,7 @@ This is a side view of the tank.
 
 {{< tdclose >}}
 {{< tdopen >}}
-For my final project in {{< resource_link 3ac1aa36-8b07-38f8-f202-a90f68c5443e "SP.285" >}}, I built an infrared controlled tank out of Legos. The basic idea is that one board acts as a slave and takes commands from another board, which acts as master, through IR signals. These signals are sent in 32 bit bursts along some carrier frequency from the master board to the slave board.
+For my final project in {{% resource_link 3ac1aa36-8b07-38f8-f202-a90f68c5443e "SP.285" %}}, I built an infrared controlled tank out of Legos. The basic idea is that one board acts as a slave and takes commands from another board, which acts as master, through IR signals. These signals are sent in 32 bit bursts along some carrier frequency from the master board to the slave board.
 {{< tdclose >}}
 
 {{< trclose >}}

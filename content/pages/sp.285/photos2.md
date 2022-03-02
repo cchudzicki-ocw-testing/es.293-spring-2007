@@ -9,11 +9,11 @@ title: 'Project 2: Photos'
 uid: 3b0fecd3-3a51-6f1d-ea02-a20cdf3147ce
 ---
 
-{{< resource_link 3ac1aa36-8b07-38f8-f202-a90f68c5443e "SP.285" >}}
+{{% resource_link 3ac1aa36-8b07-38f8-f202-a90f68c5443e "SP.285" %}}
 
-{{< resource_link b5b64eb7-1047-bdd4-d929-b6edc398906f "Project 1: The Claw" >}}, {{< resource_link 9991939b-f01e-54c6-180d-bb922415bde5 "Photos" >}}  
-{{< resource_link 21fb43bb-b0f8-457c-2b57-0ad8b623850c "Project 2: Industrial Salvage" >}} , Photos  
-{{< resource_link 4489b2ae-a4b3-0b9f-f511-396ad3b7341e "Project 3: Independent Robotics Projects" >}}
+{{% resource_link b5b64eb7-1047-bdd4-d929-b6edc398906f "Project 1: The Claw" %}}, {{% resource_link 9991939b-f01e-54c6-180d-bb922415bde5 "Photos" %}}  
+{{% resource_link 21fb43bb-b0f8-457c-2b57-0ad8b623850c "Project 2: Industrial Salvage" %}} , Photos  
+{{% resource_link 4489b2ae-a4b3-0b9f-f511-396ad3b7341e "Project 3: Independent Robotics Projects" %}}
 
 * * *
 

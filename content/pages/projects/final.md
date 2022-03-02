@@ -51,4 +51,4 @@ Competition
 
 This project is mainly a competition between you and the free time you have/want to spend working on it. The main purpose of the project is to build a robot that accomplishes at least partly the firefighting goals. There may be a competition for those who wish to enter to see whose robot can extinguish the fire most reliably and quickly. More details will be forthcoming.
 
-{{< resource_link 036c1983-7039-2671-43af-609365ee8161 "Back to projects section" >}}
+{{% resource_link 036c1983-7039-2671-43af-609365ee8161 "Back to projects section" %}}

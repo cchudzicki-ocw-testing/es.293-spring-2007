@@ -153,7 +153,7 @@ For the rest of the semester, students will develop their own robot project, bas
 *   Build a robot that makes use of a tilt sensor to drive right-side up or upside-down, but always drives in the right direction, or a robot that increases power to the motors when climbing a slope.
 *   Build a robot that navigates a maze with wood/cardboard walls (many possible methods).
 
-{{< resource_link a2c5b1cc-6998-2647-0cb2-23882c9e21c5 "Final Project '97" >}}
+{{% resource_link a2c5b1cc-6998-2647-0cb2-23882c9e21c5 "Final Project '97" %}}
 
 Competitions
 ------------
@@ -170,4 +170,4 @@ If you do a competition, require that the robots be basically done a week early,
 8.  Some competition where multiple robots \_have\_ to work together to get anything done.
 9.  Optionally, the robots have to work with robots on the other team to get anything done.
 
-More Competition Suggestions ({{< resource_link 46cf570a-9e17-9cde-2b60-fd7036a59468 "PDF" >}}) (Courtesy Colin Dillard. Used with permission.)
+More Competition Suggestions ({{% resource_link 46cf570a-9e17-9cde-2b60-fd7036a59468 "PDF" %}}) (Courtesy Colin Dillard. Used with permission.)

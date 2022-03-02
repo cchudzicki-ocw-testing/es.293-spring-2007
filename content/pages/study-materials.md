@@ -36,7 +36,7 @@ Our friend the Lego
 
 Policies, The Art of Lego (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://handyboard.com/oldhb/techdocs/artoflego.pdf))
 
-Tips on fixing problems with your Handyboard ({{< resource_link 4e3b63c9-696b-4d1b-e05e-0ee226d97b80 "PDF" >}})
+Tips on fixing problems with your Handyboard ({{% resource_link 4e3b63c9-696b-4d1b-e05e-0ee226d97b80 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -76,7 +76,7 @@ Demo geared motors (lots of torque!!)
 
 Bring in example of differential gear.
 
-Introduction to Motors ({{< resource_link e39d55cf-297a-00cd-a2ae-eac0423b8222 "PDF" >}})
+Introduction to Motors ({{% resource_link e39d55cf-297a-00cd-a2ae-eac0423b8222 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -90,7 +90,7 @@ Introduction to Motors ({{< resource_link e39d55cf-297a-00cd-a2ae-eac0423b8222 "
 Easy as C
 {{< tdclose >}}
 {{< tdopen >}}
-Handyboard music (See {{< resource_link 64fb3db7-fee4-5b1b-3d49-7e084793d0f1 "Tools" >}}, mmusic.c)
+Handyboard music (See {{% resource_link 64fb3db7-fee4-5b1b-3d49-7e084793d0f1 "Tools" %}}, mmusic.c)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -104,9 +104,9 @@ Making sense
 {{< tdopen >}}
 
 
-Bring in box of sensors and use with the Handyboard (See {{< resource_link 64fb3db7-fee4-5b1b-3d49-7e084793d0f1 "Tools" >}}, template.c)
+Bring in box of sensors and use with the Handyboard (See {{% resource_link 64fb3db7-fee4-5b1b-3d49-7e084793d0f1 "Tools" %}}, template.c)
 
-Introduction to Sensor Types ({{< resource_link 7740bed1-a607-cc73-f41a-bb5268df2bf1 "PDF" >}})
+Introduction to Sensor Types ({{% resource_link 7740bed1-a607-cc73-f41a-bb5268df2bf1 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -120,14 +120,14 @@ Introduction to Sensor Types ({{< resource_link 7740bed1-a607-cc73-f41a-bb5268df
 One, two, three, ... infinity
 {{< tdclose >}}
 {{< tdopen >}}
-Basic IC Commands ({{< resource_link 5a70812e-0003-fe3a-00cb-c0d404ab2821 "PDF" >}})
+Basic IC Commands ({{% resource_link 5a70812e-0003-fe3a-00cb-c0d404ab2821 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
 
 {{< tableclose >}}
 
-Students are also directed to read the 6.270 course notes, especially chapters 6, 7, and Appendix A, for more help with robot construction, control systems, and IC commands. ({{< resource_link bd8917fb-7f64-7998-96d2-2ee34c864927 "PDF" >}})
+Students are also directed to read the 6.270 course notes, especially chapters 6, 7, and Appendix A, for more help with robot construction, control systems, and IC commands. ({{% resource_link bd8917fb-7f64-7998-96d2-2ee34c864927 "PDF" %}})
 
 A Visual Guide to Sensors
 -------------------------
