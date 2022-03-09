@@ -36,8 +36,6 @@ Bring in cliché examples of the use of different gears, including gear racks.
 Cruisin'
 {{< tdclose >}}{{< tdopen >}}
 
-Handyboard Technical Reference (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://handyboard.com/oldhb/software/icmanual/icmain.pdf)), pp. 6-8.
-
 Demo geared motors (lots of torque!!)
 
 Bring in example of differential gear.
@@ -72,6 +70,6 @@ Students are also directed to read the 6.270 course notes, especially chapters 6
 
 ## A Visual Guide to Sensors
 
-![](https://ocw.mit.edu/ans7870/SP/SP.293/s07/studymaterials/images/1th.jpg)![](https://ocw.mit.edu/ans7870/SP/SP.293/s07/studymaterials/images/2th.jpg)![](https://ocw.mit.edu/ans7870/SP/SP.293/s07/studymaterials/images/3th.jpg)![](https://ocw.mit.edu/ans7870/SP/SP.293/s07/studymaterials/images/4th.jpg)![](https://ocw.mit.edu/ans7870/SP/SP.293/s07/studymaterials/images/5th.jpg)   
-![](https://ocw.mit.edu/ans7870/SP/SP.293/s07/studymaterials/images/6th.jpg)![](https://ocw.mit.edu/ans7870/SP/SP.293/s07/studymaterials/images/7th.jpg)![](https://ocw.mit.edu/ans7870/SP/SP.293/s07/studymaterials/images/8th.jpg)![](https://ocw.mit.edu/ans7870/SP/SP.293/s07/studymaterials/images/9th.jpg)![](https://ocw.mit.edu/ans7870/SP/SP.293/s07/studymaterials/images/10th.jpg)   
+![](https://ocw.mit.edu/ans7870/SP/SP.293/s07/studymaterials/images/1th.jpg)![](https://ocw.mit.edu/ans7870/SP/SP.293/s07/studymaterials/images/2th.jpg)![](https://ocw.mit.edu/ans7870/SP/SP.293/s07/studymaterials/images/3th.jpg)![](https://ocw.mit.edu/ans7870/SP/SP.293/s07/studymaterials/images/4th.jpg)![](https://ocw.mit.edu/ans7870/SP/SP.293/s07/studymaterials/images/5th.jpg)    
+![](https://ocw.mit.edu/ans7870/SP/SP.293/s07/studymaterials/images/6th.jpg)![](https://ocw.mit.edu/ans7870/SP/SP.293/s07/studymaterials/images/7th.jpg)![](https://ocw.mit.edu/ans7870/SP/SP.293/s07/studymaterials/images/8th.jpg)![](https://ocw.mit.edu/ans7870/SP/SP.293/s07/studymaterials/images/9th.jpg)![](https://ocw.mit.edu/ans7870/SP/SP.293/s07/studymaterials/images/10th.jpg)    
 ![](https://ocw.mit.edu/ans7870/SP/SP.293/s07/studymaterials/images/11th.jpg)![](https://ocw.mit.edu/ans7870/SP/SP.293/s07/studymaterials/images/12th.jpg)![](https://ocw.mit.edu/ans7870/SP/SP.293/s07/studymaterials/images/13th.jpg)
