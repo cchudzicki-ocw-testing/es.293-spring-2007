@@ -15,4 +15,6 @@ parent_type: CourseSection
 resourcetype: Image
 title: legolightsnr.jpg
 uid: 93da4aee-aff0-c679-6fee-b77ebfaeabaa
+video_metadata:
+  youtube_id: null
 ---

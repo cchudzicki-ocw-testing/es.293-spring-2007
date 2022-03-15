@@ -15,4 +15,6 @@ parent_type: CourseSection
 resourcetype: Image
 title: robot.jpg
 uid: 509414d7-3f51-a549-2ca7-1d004033ae32
+video_metadata:
+  youtube_id: null
 ---

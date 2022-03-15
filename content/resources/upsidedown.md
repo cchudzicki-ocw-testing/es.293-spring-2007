@@ -17,4 +17,6 @@ parent_type: CourseSection
 resourcetype: Image
 title: upsidedown.jpg
 uid: 53022cab-f616-250a-0627-371e80977973
+video_metadata:
+  youtube_id: null
 ---

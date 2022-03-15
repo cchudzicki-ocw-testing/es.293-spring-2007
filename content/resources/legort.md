@@ -15,4 +15,6 @@ parent_type: CourseSection
 resourcetype: Image
 title: legort.jpg
 uid: 364b67fb-2d4e-6fd1-2614-94d1f7a2d135
+video_metadata:
+  youtube_id: null
 ---

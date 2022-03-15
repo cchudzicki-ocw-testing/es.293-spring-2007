@@ -14,4 +14,6 @@ parent_type: CourseSection
 resourcetype: Image
 title: afternoon_2.jpg
 uid: e0ca2b5d-e90c-0bda-4bda-833ee920707f
+video_metadata:
+  youtube_id: null
 ---

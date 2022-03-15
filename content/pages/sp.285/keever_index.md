@@ -7,6 +7,8 @@ parent_type: CourseSection
 parent_uid: 3ac1aa36-8b07-38f8-f202-a90f68c5443e
 title: Projectile Launcher
 uid: fbc62d3a-ff37-9c99-e4e2-4539d9bbd673
+video_metadata:
+  youtube_id: null
 ---
 
 {{% resource_link 3ac1aa36-8b07-38f8-f202-a90f68c5443e "SP.285" %}}

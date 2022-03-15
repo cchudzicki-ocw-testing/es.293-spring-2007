@@ -15,4 +15,6 @@ parent_type: CourseSection
 resourcetype: Image
 title: jonah_2.jpg
 uid: 3fa275eb-c10f-3bcc-51cc-f54b28f8b2c4
+video_metadata:
+  youtube_id: null
 ---

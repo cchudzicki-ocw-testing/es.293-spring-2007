@@ -15,4 +15,6 @@ parent_type: CourseSection
 resourcetype: Image
 title: track1.jpg
 uid: 02ace476-8286-21c6-c8d8-6d303c4e9b0e
+video_metadata:
+  youtube_id: null
 ---

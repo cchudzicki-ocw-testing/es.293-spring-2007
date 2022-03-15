@@ -17,4 +17,6 @@ parent_type: CourseSection
 resourcetype: Image
 title: gears.jpg
 uid: 3168834a-56e3-f34f-0ea1-dfd5e3361b88
+video_metadata:
+  youtube_id: null
 ---

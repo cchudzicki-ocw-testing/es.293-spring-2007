@@ -15,4 +15,6 @@ parent_type: CourseSection
 resourcetype: Image
 title: ir_tower.jpg
 uid: 131a2a83-629e-8edb-0af8-719b986fdfac
+video_metadata:
+  youtube_id: null
 ---

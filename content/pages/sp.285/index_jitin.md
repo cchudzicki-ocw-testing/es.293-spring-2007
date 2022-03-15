@@ -7,6 +7,8 @@ parent_type: CourseSection
 parent_uid: 3ac1aa36-8b07-38f8-f202-a90f68c5443e
 title: Invertible Robot
 uid: 2a995065-ab60-fabb-f9ef-0c9861286f50
+video_metadata:
+  youtube_id: null
 ---
 
 {{% resource_link 3ac1aa36-8b07-38f8-f202-a90f68c5443e "SP.285" %}}

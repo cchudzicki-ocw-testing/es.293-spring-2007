@@ -15,4 +15,6 @@ parent_type: CourseSection
 resourcetype: Image
 title: robot_low.jpg
 uid: eeb16f95-2249-7425-247a-4c719c3e8e01
+video_metadata:
+  youtube_id: null
 ---

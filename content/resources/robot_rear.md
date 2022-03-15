@@ -15,4 +15,6 @@ parent_type: CourseSection
 resourcetype: Image
 title: robot_rear.jpg
 uid: 6486d339-3749-f245-1fac-559c8233334d
+video_metadata:
+  youtube_id: null
 ---

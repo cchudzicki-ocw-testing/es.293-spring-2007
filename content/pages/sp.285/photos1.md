@@ -7,6 +7,8 @@ parent_type: CourseSection
 parent_uid: 3ac1aa36-8b07-38f8-f202-a90f68c5443e
 title: 'Project 1: Photos'
 uid: 9991939b-f01e-54c6-180d-bb922415bde5
+video_metadata:
+  youtube_id: null
 ---
 
 {{% resource_link 3ac1aa36-8b07-38f8-f202-a90f68c5443e "SP.285" %}}

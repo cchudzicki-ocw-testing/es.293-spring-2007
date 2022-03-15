@@ -10,4 +10,6 @@ parent_type: CourseSection
 resourcetype: Document
 title: 'How to Fix Stuff:'
 uid: 4e3b63c9-696b-4d1b-e05e-0ee226d97b80
+video_metadata:
+  youtube_id: null
 ---

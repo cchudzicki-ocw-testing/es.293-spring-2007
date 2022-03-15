@@ -15,4 +15,6 @@ parent_type: CourseSection
 resourcetype: Image
 title: catapult_winch.jpg
 uid: 346aded6-ec23-c23e-a45c-bdb5b9842f50
+video_metadata:
+  youtube_id: null
 ---

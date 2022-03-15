@@ -5,6 +5,8 @@ learning_resource_types:
 ocw_type: CourseSection
 title: Tools
 uid: 64fb3db7-fee4-5b1b-3d49-7e084793d0f1
+video_metadata:
+  youtube_id: null
 ---
 
 Code Snippets

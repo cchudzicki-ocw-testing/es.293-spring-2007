@@ -10,4 +10,6 @@ parent_type: CourseSection
 resourcetype: Document
 title: notes.dvi
 uid: bd8917fb-7f64-7998-96d2-2ee34c864927
+video_metadata:
+  youtube_id: null
 ---

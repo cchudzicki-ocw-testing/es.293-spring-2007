@@ -16,4 +16,6 @@ parent_type: CourseSection
 resourcetype: Image
 title: floor.gif
 uid: 5bbda4e1-fdcd-d16e-64b4-67c2ef39d99a
+video_metadata:
+  youtube_id: null
 ---

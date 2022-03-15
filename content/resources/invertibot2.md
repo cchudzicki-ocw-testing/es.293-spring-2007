@@ -17,4 +17,6 @@ parent_type: CourseSection
 resourcetype: Image
 title: invertibot2.jpg
 uid: d34bb1b2-0d7b-ed66-c197-93e0aa652e77
+video_metadata:
+  youtube_id: null
 ---

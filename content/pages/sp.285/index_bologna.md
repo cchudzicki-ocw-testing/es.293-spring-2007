@@ -7,6 +7,8 @@ parent_type: CourseSection
 parent_uid: 3ac1aa36-8b07-38f8-f202-a90f68c5443e
 title: Guidance by IR Beacon
 uid: 71bf2a2a-5a80-abb9-6b63-accb8c525add
+video_metadata:
+  youtube_id: null
 ---
 
 {{% resource_link 3ac1aa36-8b07-38f8-f202-a90f68c5443e "SP.285" %}}

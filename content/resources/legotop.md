@@ -15,4 +15,6 @@ parent_type: CourseSection
 resourcetype: Image
 title: legotop.jpg
 uid: 3f7ab352-fabc-eb59-b3fb-4e7ff3cd67be
+video_metadata:
+  youtube_id: null
 ---

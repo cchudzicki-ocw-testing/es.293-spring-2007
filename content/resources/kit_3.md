@@ -15,4 +15,6 @@ parent_type: CourseSection
 resourcetype: Image
 title: kit_3.jpg
 uid: ea37c95e-4000-f540-e56e-58a7c55c0b3e
+video_metadata:
+  youtube_id: null
 ---

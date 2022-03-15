@@ -15,4 +15,6 @@ parent_type: CourseSection
 resourcetype: Image
 title: bottom.jpg
 uid: 23aa6334-f495-cc1f-3afb-482c2892b653
+video_metadata:
+  youtube_id: null
 ---

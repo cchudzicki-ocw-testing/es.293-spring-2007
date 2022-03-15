@@ -15,4 +15,6 @@ parent_type: CourseSection
 resourcetype: Image
 title: legofrnt.jpg
 uid: 5a417e0e-239e-fed8-2277-14b681571383
+video_metadata:
+  youtube_id: null
 ---

@@ -11,4 +11,6 @@ parent_type: CourseSection
 resourcetype: Document
 title: Challenges
 uid: 46cf570a-9e17-9cde-2b60-fd7036a59468
+video_metadata:
+  youtube_id: null
 ---

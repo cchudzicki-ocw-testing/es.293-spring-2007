@@ -15,4 +15,6 @@ parent_type: CourseSection
 resourcetype: Image
 title: remote2.jpg
 uid: f42cd4fd-cf92-9553-a4e1-a9606e771d5e
+video_metadata:
+  youtube_id: null
 ---

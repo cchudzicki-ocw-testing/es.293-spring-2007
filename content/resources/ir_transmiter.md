@@ -15,4 +15,6 @@ parent_type: CourseSection
 resourcetype: Image
 title: ir_transmiter.jpg
 uid: ea38ec08-f85f-9d7f-fe75-47077661707c
+video_metadata:
+  youtube_id: null
 ---

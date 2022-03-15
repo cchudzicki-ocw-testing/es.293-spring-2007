@@ -14,4 +14,6 @@ parent_type: CourseSection
 resourcetype: Image
 title: smarty.jpg
 uid: 5b940e33-a2f0-97f1-5602-7c6df7b984c2
+video_metadata:
+  youtube_id: null
 ---

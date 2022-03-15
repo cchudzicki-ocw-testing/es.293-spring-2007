@@ -5,6 +5,8 @@ learning_resource_types:
 ocw_type: CourseSection
 title: Projects
 uid: 036c1983-7039-2671-43af-609365ee8161
+video_metadata:
+  youtube_id: null
 ---
 
 Students will work on robotics projects of their own choosing over the course of the semester. There is no timeline by which one robot must be finished and another must be started; this is up to the discretion of the students. However, students should expect to build at least three or four functional robots during the semester. There will be a competition at the end of the semester in which students may choose to participate. A rough suggestion of how the projects progress through the semester follows.

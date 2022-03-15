@@ -15,4 +15,6 @@ parent_type: CourseSection
 resourcetype: Image
 title: legogears.jpg
 uid: 468ae11e-3d13-6773-4031-513aa4a1ed62
+video_metadata:
+  youtube_id: null
 ---

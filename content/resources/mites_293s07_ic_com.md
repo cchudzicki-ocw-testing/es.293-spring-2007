@@ -10,4 +10,6 @@ parent_type: CourseSection
 resourcetype: Document
 title: 'INPUT / OUTPUT: '
 uid: 5a70812e-0003-fe3a-00cb-c0d404ab2821
+video_metadata:
+  youtube_id: null
 ---

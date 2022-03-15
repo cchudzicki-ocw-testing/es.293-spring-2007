@@ -15,4 +15,6 @@ parent_type: CourseSection
 resourcetype: Image
 title: catapult.jpg
 uid: 200113d6-bb3b-f58d-0377-7bfa25735438
+video_metadata:
+  youtube_id: null
 ---

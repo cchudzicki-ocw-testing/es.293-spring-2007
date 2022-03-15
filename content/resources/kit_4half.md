@@ -15,4 +15,6 @@ parent_type: CourseSection
 resourcetype: Image
 title: kit_4half.jpg
 uid: a57f0b51-6547-ead2-5ce8-5e10a92a6c4b
+video_metadata:
+  youtube_id: null
 ---

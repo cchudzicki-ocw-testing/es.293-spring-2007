@@ -7,6 +7,8 @@ parent_type: CourseSection
 parent_uid: 3ac1aa36-8b07-38f8-f202-a90f68c5443e
 title: 'Project 2: Industrial Salvage Claw'
 uid: 21fb43bb-b0f8-457c-2b57-0ad8b623850c
+video_metadata:
+  youtube_id: null
 ---
 
 {{% resource_link 3ac1aa36-8b07-38f8-f202-a90f68c5443e "SP.285" %}}

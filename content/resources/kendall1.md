@@ -15,4 +15,6 @@ parent_type: CourseSection
 resourcetype: Image
 title: kendall1.jpg
 uid: 9d46d023-adc6-0674-3708-ed40a2a7153d
+video_metadata:
+  youtube_id: null
 ---

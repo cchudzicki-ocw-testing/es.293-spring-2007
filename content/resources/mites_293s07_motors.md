@@ -10,4 +10,6 @@ parent_type: CourseSection
 resourcetype: Document
 title: Basic E&M of Motors
 uid: e39d55cf-297a-00cd-a2ae-eac0423b8222
+video_metadata:
+  youtube_id: null
 ---

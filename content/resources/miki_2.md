@@ -15,4 +15,6 @@ parent_type: CourseSection
 resourcetype: Image
 title: miki_2.jpg
 uid: c7edc32e-aff0-a5f5-8299-52ff274fe2f2
+video_metadata:
+  youtube_id: null
 ---

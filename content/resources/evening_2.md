@@ -14,4 +14,6 @@ parent_type: CourseSection
 resourcetype: Image
 title: evening_2.jpg
 uid: ec0395ff-b21b-4511-58ba-dae9f1c4b192
+video_metadata:
+  youtube_id: null
 ---

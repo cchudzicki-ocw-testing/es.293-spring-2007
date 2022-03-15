@@ -15,4 +15,6 @@ parent_type: CourseSection
 resourcetype: Image
 title: pict2.jpg
 uid: 779a233f-a680-578f-97f1-fea72dbe4c61
+video_metadata:
+  youtube_id: null
 ---

@@ -15,4 +15,6 @@ parent_type: CourseSection
 resourcetype: Image
 title: catapult_trigger.jpg
 uid: 023969f0-1ac8-a571-ee79-99bd84333b97
+video_metadata:
+  youtube_id: null
 ---

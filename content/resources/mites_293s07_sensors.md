@@ -10,4 +10,6 @@ parent_type: CourseSection
 resourcetype: Document
 title: Introduction to Sensor Types
 uid: 7740bed1-a607-cc73-f41a-bb5268df2bf1
+video_metadata:
+  youtube_id: null
 ---

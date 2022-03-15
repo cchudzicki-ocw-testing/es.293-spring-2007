@@ -14,4 +14,6 @@ parent_type: CourseSection
 resourcetype: Image
 title: odd_1.jpg
 uid: 0ff195d3-7616-d799-f9dd-ef9b5cce2b62
+video_metadata:
+  youtube_id: null
 ---

@@ -15,4 +15,6 @@ parent_type: CourseSection
 resourcetype: Image
 title: legolfang.jpg
 uid: 211c8805-376b-77c4-3c85-50eee05e4237
+video_metadata:
+  youtube_id: null
 ---

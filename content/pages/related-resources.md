@@ -4,6 +4,8 @@ learning_resource_types: []
 ocw_type: CourseSection
 title: Related Resources
 uid: 38557afb-40ab-6728-b24f-7cc2c02971a4
+video_metadata:
+  youtube_id: null
 ---
 
 Robotics Links

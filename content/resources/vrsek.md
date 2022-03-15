@@ -15,4 +15,6 @@ parent_type: CourseSection
 resourcetype: Image
 title: vrsek.jpg
 uid: 91253ccb-3641-a5a8-592e-33bedae4fd2e
+video_metadata:
+  youtube_id: null
 ---

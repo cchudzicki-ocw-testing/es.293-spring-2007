@@ -15,4 +15,6 @@ parent_type: CourseSection
 resourcetype: Image
 title: front_geers.jpg
 uid: 10ae235d-d5a8-7d01-b5c9-69a94954f195
+video_metadata:
+  youtube_id: null
 ---
