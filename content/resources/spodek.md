@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/es-293-lego-robotics-spring-2007/de5b20d8ba91bb7f3ae6ac9e76f33f1a_spodek.jpg
+file: /courses/es-293-lego-robotics-spring-2007/de5b20d8ba91bb7f3ae6ac9e76f33f1a_spodek.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''
