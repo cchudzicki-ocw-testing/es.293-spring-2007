@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides information on the robots projects student build
+  over the course of the semester, including project ideas, challenges, and competitions.
 learning_resource_types:
 - Projects
 ocw_type: CourseSection

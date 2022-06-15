@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section is an archive of another ESG course that spun off from SP.293
+  in Spring and Fall '99, SP.285 Robotics and Mechatronics Projects. Similar in format,
+  with fairly open-ended teaching sessions and several projects, it emphasized electronics
+  and mechanical construction skills, in addition to the Lego robotics topics.
 learning_resource_types: []
 ocw_type: CourseSection
 title: SP.285
