@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides study materials for the course, including material
+  explaining the various components of Lego robots and a visual guide to sensors.
 draft: false
 learning_resource_types: []
 ocw_type: CourseSection

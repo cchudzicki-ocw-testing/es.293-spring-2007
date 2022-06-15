@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This syllabus section provides the course description and information
+  on course meeting times, format, labs, rules of conduct, discussion sessions, projects,
+  grading, credit, and attendance.
 draft: false
 learning_resource_types: []
 ocw_type: CourseSection
