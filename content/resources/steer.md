@@ -6,6 +6,7 @@ file: /courses/es-293-lego-robotics-spring-2007/1539d39f0794ff5adb654a72f46e3a27
 file_type: text/plain
 learning_resource_types:
 - Tools
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Tools
 parent_type: CourseSection
